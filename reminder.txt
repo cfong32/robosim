@@ -1,0 +1,6 @@
+1. locks
+2. wait 2.5s
+3. modifier links
+4. speed control
+5. loop
+6. jump

@@ -1,0 +1,3 @@
+﻿class ModifierFn extends Fn {
+	
+}
